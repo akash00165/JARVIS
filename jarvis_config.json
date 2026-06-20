@@ -1,0 +1,12 @@
+{
+  "api_key": "apikey_01Rj2N8SVvo6BePZj99NhmiT",
+  "wake_word": "jarvis",
+  "voice_enabled": true,
+  "speech_rate": 150,
+  "speech_volume": 0.9,
+  "model": "claude-sonnet-4-20250514",
+  "username": "Sir",
+  "auto_start": false,
+  "theme": "dark",
+  "window_opacity": 0.95
+}
