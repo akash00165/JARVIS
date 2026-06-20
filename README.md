@@ -138,3 +138,4 @@ Click **SETTINGS** in the app to configure:
 ---
 
 *Powered by Claude AI from Anthropic*
+Disclaimer: The API key may not work in your work environment so please check once with the API key. Also this is a simple project that is inspired rather than own build. 
